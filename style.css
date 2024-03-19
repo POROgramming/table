@@ -1,0 +1,55 @@
+body{
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    position: relative;
+}
+.tableContainer{
+    margin-top: 300px;
+}
+.action-btn {
+    margin: 4px 2px;
+  }
+.profileContainer{
+    background-color: rgb(124, 204, 124);
+    height: 140px;
+    width: 180px;
+    border-radius: 10px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    margin-left: 1030px;
+    position: absolute;
+  }
+.imgcon{
+    height: 80px;
+    width: 80px;
+    background-size: cover;
+    margin-bottom: 50px;
+    position: absolute;
+
+  }
+.btn-group{
+    margin-bottom: 5px;
+}
+#btnDropDown {
+    background-color: #7CCC7C !important; /* Changes the background color */
+    border-color: #7CCC7C !important; /* Changes the border color */
+  }
+  #btnDropDown:hover {
+    background-color: #6bb96b !important; /* Slightly darker shade for hover effect */
+    border-color: #6bb96b !important;
+  }
+.mb-4{
+    position: relative;
+}
+.mb-4 img{
+    position: absolute;
+    width: 20px;
+    top: 10px;
+    right: 20px;
+}
+
+table thead tr th {
+    background-color: blue;
+}
