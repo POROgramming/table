@@ -40,10 +40,10 @@ body{
     background-color: #6bb96b !important; /* Slightly darker shade for hover effect */
     border-color: #6bb96b !important;
   }
-.mb-4{
+.mb-1{
     position: relative;
 }
-.mb-4 img{
+.mb-1 img{
     position: absolute;
     width: 20px;
     top: 10px;
